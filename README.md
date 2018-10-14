@@ -1,3 +1,8 @@
-# fullstack-js-coding-challenges-three
+# Fullstack JavaScript Coding Challenges Three
+Fullstack Academy JS jumpstart Coding Challenges Three. Made with JavaScript.
 
-Fullstack JS jumpstart  Coding Challenges Three
+## Contributing
+This repository is based on starter code from Fullstack Academy. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* Fullstack Academy
